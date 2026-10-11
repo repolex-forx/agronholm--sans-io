@@ -1,0 +1,25 @@
+{
+  "manifest_version": "1.0",
+  "org": "agronholm",
+  "repo": "sans-io",
+  "versions": [
+    {
+      "commit": "4e0c9d23714f8e97288f0556d2eac9767a704bec",
+      "parsed_at": "2026-10-11T20:47:52.616386+00:00",
+      "filetree": "filetree/4e0c9d23714f8e97288f0556d2eac9767a704bec.nq.gz",
+      "blobs": [
+        "blob/f5c02a2c6840cfdb0c18790f104b2272defa0c54.nq.gz",
+        "blob/10b73a64c698eedc3a04256c8096bef019ecb972.nq.gz",
+        "blob/482384281f54acfa8f8331c241959c030c7f64fe.nq.gz",
+        "blob/ae11d04eee02023dd5ea0ea02155d39edd9e71c1.nq.gz",
+        "blob/6898c141058fdb41964f1fe2412bf0c7ed02a9da.nq.gz",
+        "blob/4adc76c76101ee3d57429161a1a073a5c0d80173.nq.gz",
+        "blob/89234170d6becf549d7f01ed7dcfe6f0fbb8eed0.nq.gz",
+        "blob/b413d8c2524aab1c4ddbbb0f2761a1094261d111.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
